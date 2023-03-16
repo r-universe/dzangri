@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "stmgui"]
+	path = stmgui
+	url = https://github.com/dzangri/stmgui
+	shallow = true
+	registered = true
